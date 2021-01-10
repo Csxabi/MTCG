@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Y2mqoNdeR5jcrCSBTCGuxZjEp1+I0qlIBU2LPk6JO+x4QNtlqNdSLlioK5A1RLbzpIL+0t1i+3sRzEBT5oWgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asus\\Desktop\\Trading in c_\\MtcgServerPostgresAdapter\\MtcgServerPostgresAdapter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\npgsql\\5.0.0\\npgsql.5.0.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

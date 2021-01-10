@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xqSOHkZb5HfBpNMOosgrShNWhgPMY6ikM67wh477/5JzcFChjlA52UhuP+MhI2aDrcEPVr0YdYkMXN1Uou9LFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asus\\Desktop\\Trading in c_\\MtcgLauncher\\MtcgLauncher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\npgsql\\5.0.0\\npgsql.5.0.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

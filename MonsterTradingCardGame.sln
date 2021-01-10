@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestWebServer", "RestWebServer\RestWebServer.csproj", "{F14696C6-F711-49DC-9082-0E3BE5181FA7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MtcgServer", "MtcgServer\MtcgServer.csproj", "{DE7041D5-70B5-44DB-862B-99B8EB3B1DA7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MtcgServerTests", "MtcgServerTests\MtcgServerTests.csproj", "{25D809C7-812E-410D-8F47-99E5CE6C8B74}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestWebServerLauncher", "RestWebServerLauncher\RestWebServerLauncher.csproj", "{750D9492-3448-4A86-B966-4CD76C2938E0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MtcgServerPostgresAdapter", "MtcgServerPostgresAdapter\MtcgServerPostgresAdapter.csproj", "{BC95D54E-C682-4BC9-BAF4-705BF6B516B9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MtcgLauncher", "MtcgLauncher\MtcgLauncher.csproj", "{E2A39079-ED36-4234-9F0C-CA2A6E8B0A91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F14696C6-F711-49DC-9082-0E3BE5181FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F14696C6-F711-49DC-9082-0E3BE5181FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F14696C6-F711-49DC-9082-0E3BE5181FA7}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{F14696C6-F711-49DC-9082-0E3BE5181FA7}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{DE7041D5-70B5-44DB-862B-99B8EB3B1DA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE7041D5-70B5-44DB-862B-99B8EB3B1DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE7041D5-70B5-44DB-862B-99B8EB3B1DA7}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE7041D5-70B5-44DB-862B-99B8EB3B1DA7}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{25D809C7-812E-410D-8F47-99E5CE6C8B74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25D809C7-812E-410D-8F47-99E5CE6C8B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25D809C7-812E-410D-8F47-99E5CE6C8B74}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{25D809C7-812E-410D-8F47-99E5CE6C8B74}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{750D9492-3448-4A86-B966-4CD76C2938E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{750D9492-3448-4A86-B966-4CD76C2938E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{750D9492-3448-4A86-B966-4CD76C2938E0}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{750D9492-3448-4A86-B966-4CD76C2938E0}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{BC95D54E-C682-4BC9-BAF4-705BF6B516B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC95D54E-C682-4BC9-BAF4-705BF6B516B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC95D54E-C682-4BC9-BAF4-705BF6B516B9}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC95D54E-C682-4BC9-BAF4-705BF6B516B9}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{E2A39079-ED36-4234-9F0C-CA2A6E8B0A91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2A39079-ED36-4234-9F0C-CA2A6E8B0A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2A39079-ED36-4234-9F0C-CA2A6E8B0A91}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2A39079-ED36-4234-9F0C-CA2A6E8B0A91}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0407AA82-763F-4C0A-851C-B7663F617AD7}
+	EndGlobalSection
+EndGlobal

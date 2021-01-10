@@ -1,0 +1,17 @@
+C:\Users\asus\Desktop\Trading in c_\RestWebServerLauncher\bin\Debug\netcoreapp3.1\RestWebServerLauncher.exe
+C:\Users\asus\Desktop\Trading in c_\RestWebServerLauncher\bin\Debug\netcoreapp3.1\RestWebServerLauncher.deps.json
+C:\Users\asus\Desktop\Trading in c_\RestWebServerLauncher\bin\Debug\netcoreapp3.1\RestWebServerLauncher.runtimeconfig.json
+C:\Users\asus\Desktop\Trading in c_\RestWebServerLauncher\bin\Debug\netcoreapp3.1\RestWebServerLauncher.runtimeconfig.dev.json
+C:\Users\asus\Desktop\Trading in c_\RestWebServerLauncher\bin\Debug\netcoreapp3.1\RestWebServerLauncher.dll
+C:\Users\asus\Desktop\Trading in c_\RestWebServerLauncher\bin\Debug\netcoreapp3.1\RestWebServerLauncher.pdb
+C:\Users\asus\Desktop\Trading in c_\RestWebServerLauncher\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\asus\Desktop\Trading in c_\RestWebServerLauncher\bin\Debug\netcoreapp3.1\RestWebServer.dll
+C:\Users\asus\Desktop\Trading in c_\RestWebServerLauncher\bin\Debug\netcoreapp3.1\RestWebServer.pdb
+C:\Users\asus\Desktop\Trading in c_\RestWebServerLauncher\obj\Debug\netcoreapp3.1\RestWebServerLauncher.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Trading in c_\RestWebServerLauncher\obj\Debug\netcoreapp3.1\RestWebServerLauncher.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Trading in c_\RestWebServerLauncher\obj\Debug\netcoreapp3.1\RestWebServerLauncher.AssemblyInfo.cs
+C:\Users\asus\Desktop\Trading in c_\RestWebServerLauncher\obj\Debug\netcoreapp3.1\RestWebServerLauncher.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Trading in c_\RestWebServerLauncher\obj\Debug\netcoreapp3.1\RestWebServerLauncher.csproj.CopyComplete
+C:\Users\asus\Desktop\Trading in c_\RestWebServerLauncher\obj\Debug\netcoreapp3.1\RestWebServerLauncher.dll
+C:\Users\asus\Desktop\Trading in c_\RestWebServerLauncher\obj\Debug\netcoreapp3.1\RestWebServerLauncher.pdb
+C:\Users\asus\Desktop\Trading in c_\RestWebServerLauncher\obj\Debug\netcoreapp3.1\RestWebServerLauncher.genruntimeconfig.cache

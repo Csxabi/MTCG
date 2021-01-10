@@ -1,0 +1,9 @@
+C:\Users\asus\Desktop\Trading in c_\RestWebServer\bin\Debug\netcoreapp3.1\RestWebServer.deps.json
+C:\Users\asus\Desktop\Trading in c_\RestWebServer\bin\Debug\netcoreapp3.1\RestWebServer.dll
+C:\Users\asus\Desktop\Trading in c_\RestWebServer\bin\Debug\netcoreapp3.1\RestWebServer.pdb
+C:\Users\asus\Desktop\Trading in c_\RestWebServer\obj\Debug\netcoreapp3.1\RestWebServer.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Trading in c_\RestWebServer\obj\Debug\netcoreapp3.1\RestWebServer.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Trading in c_\RestWebServer\obj\Debug\netcoreapp3.1\RestWebServer.AssemblyInfo.cs
+C:\Users\asus\Desktop\Trading in c_\RestWebServer\obj\Debug\netcoreapp3.1\RestWebServer.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Trading in c_\RestWebServer\obj\Debug\netcoreapp3.1\RestWebServer.dll
+C:\Users\asus\Desktop\Trading in c_\RestWebServer\obj\Debug\netcoreapp3.1\RestWebServer.pdb

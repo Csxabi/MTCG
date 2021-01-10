@@ -1,0 +1,12 @@
+C:\Users\asus\Desktop\Trading in c_\MtcgServer\bin\Debug\net5.0\MtcgServer.deps.json
+C:\Users\asus\Desktop\Trading in c_\MtcgServer\bin\Debug\net5.0\MtcgServer.dll
+C:\Users\asus\Desktop\Trading in c_\MtcgServer\bin\Debug\net5.0\ref\MtcgServer.dll
+C:\Users\asus\Desktop\Trading in c_\MtcgServer\bin\Debug\net5.0\MtcgServer.pdb
+C:\Users\asus\Desktop\Trading in c_\MtcgServer\obj\Debug\net5.0\MtcgServer.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Trading in c_\MtcgServer\obj\Debug\net5.0\MtcgServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\Trading in c_\MtcgServer\obj\Debug\net5.0\MtcgServer.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Trading in c_\MtcgServer\obj\Debug\net5.0\MtcgServer.AssemblyInfo.cs
+C:\Users\asus\Desktop\Trading in c_\MtcgServer\obj\Debug\net5.0\MtcgServer.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Trading in c_\MtcgServer\obj\Debug\net5.0\MtcgServer.dll
+C:\Users\asus\Desktop\Trading in c_\MtcgServer\obj\Debug\net5.0\ref\MtcgServer.dll
+C:\Users\asus\Desktop\Trading in c_\MtcgServer\obj\Debug\net5.0\MtcgServer.pdb

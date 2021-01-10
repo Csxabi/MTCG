@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\Trading in c_\MtcgServerPostgresAdapter\bin\Debug\net5.0\MtcgServerPostgresAdapter.deps.json
+C:\Users\asus\Desktop\Trading in c_\MtcgServerPostgresAdapter\bin\Debug\net5.0\MtcgServerPostgresAdapter.dll
+C:\Users\asus\Desktop\Trading in c_\MtcgServerPostgresAdapter\bin\Debug\net5.0\ref\MtcgServerPostgresAdapter.dll
+C:\Users\asus\Desktop\Trading in c_\MtcgServerPostgresAdapter\bin\Debug\net5.0\MtcgServerPostgresAdapter.pdb
+C:\Users\asus\Desktop\Trading in c_\MtcgServerPostgresAdapter\bin\Debug\net5.0\MtcgServer.dll
+C:\Users\asus\Desktop\Trading in c_\MtcgServerPostgresAdapter\bin\Debug\net5.0\MtcgServer.pdb
+C:\Users\asus\Desktop\Trading in c_\MtcgServerPostgresAdapter\obj\Debug\net5.0\MtcgServerPostgresAdapter.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Trading in c_\MtcgServerPostgresAdapter\obj\Debug\net5.0\MtcgServerPostgresAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\Trading in c_\MtcgServerPostgresAdapter\obj\Debug\net5.0\MtcgServerPostgresAdapter.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Trading in c_\MtcgServerPostgresAdapter\obj\Debug\net5.0\MtcgServerPostgresAdapter.AssemblyInfo.cs
+C:\Users\asus\Desktop\Trading in c_\MtcgServerPostgresAdapter\obj\Debug\net5.0\MtcgServerPostgresAdapter.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Trading in c_\MtcgServerPostgresAdapter\obj\Debug\net5.0\MtcgServerPostgresAdapter.csproj.CopyComplete
+C:\Users\asus\Desktop\Trading in c_\MtcgServerPostgresAdapter\obj\Debug\net5.0\MtcgServerPostgresAdapter.dll
+C:\Users\asus\Desktop\Trading in c_\MtcgServerPostgresAdapter\obj\Debug\net5.0\ref\MtcgServerPostgresAdapter.dll
+C:\Users\asus\Desktop\Trading in c_\MtcgServerPostgresAdapter\obj\Debug\net5.0\MtcgServerPostgresAdapter.pdb

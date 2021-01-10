@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TGAX4UWMEpkyvVqAqKF/vifxyx/y9Vn8QMGChwXP1OjUPIcG+N06JLYSoxbcrXrEhi/QeXz54mg7jc62gb6mpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asus\\Desktop\\Trading in c_\\RestWebServerLauncher\\RestWebServerLauncher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
